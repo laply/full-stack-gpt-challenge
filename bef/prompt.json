@@ -1,0 +1,5 @@
+{
+    "_type": "prompt",
+    "template": "{country}의 수도의 정보를 알려줘",
+    "input_variables": ["country"] 
+}
